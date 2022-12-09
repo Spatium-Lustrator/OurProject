@@ -21,9 +21,9 @@ class AuthController {
   async login(req, res) {
     try {
       res.set("Access-Control-Allow-Origin", "*");
-      const { name, password } = req.body;
-      const userData = await userService.login(name, password);
-      res.cookie(г, {
+      const { email, password } = req.body;
+      const userData = await userService.login(email, password);
+      res.cookie({
         maxAge: 30 * 24 * 60 * 60 * 1000,
         httpOnly: true,
       });

@@ -25,24 +25,19 @@ class UserService {
     // return {...tokens}
   }
 
-  async login(name, password) {
-    const user = await user_model.findOne({ name });
+  async login(email, password) {
+    let error = "none";
+    const user = await user_model.findOne({ email });
     if (!user) {
-      throw new Error("Пользователь с таким именем не найден");
+      error = "Пользователь с таким именем не найден";
+      return error;
     }
     if (!password) {
-      throw new Error("неверный пароль");
+      error = "неверный пароль";
+      return error;
     }
-
-    const userDto = new UserDto(user.user_name, user.user_id);
-    const tokens = tokenService.generateTokens({ ...userDto });
-
-    await tokenService.saveToken(userDto.id, tokens.refreshToken);
-    return { ...tokens };
-  }
-
-  async logout(refreshToken) {
-    const token = await tokenService.removeToken;
+    console.log(error);
+    return error;
   }
 }
 
