@@ -1,5 +1,5 @@
 import { observer } from "mobx-react-lite";
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { Container, Form } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
@@ -18,18 +18,19 @@ const Auth = observer(() => {
   const [code, setCode] = useState("");
   const [name, setName] = useState("");
   const [password, setPassword] = useState("");
-  // useEffect(() => {
-  //   setEmail(email.va);
-  //   console.log(email);
-  //   setPassword(password);
-  //   console.log(password);
-  // }, [email, password]);
+  useEffect(() => {
+    setEmail(email);
+    console.log(email);
+    setPassword(password);
+    console.log(password);
+  }, [email, password]);
 
   const useClick = async (email, password) => {
     try {
       let data;
       console.log("сработало1");
       if (isLogin) {
+        console.log(email);
         data = await login(email, password);
         console.log("сработало2");
       } else {
@@ -77,14 +78,14 @@ const Auth = observer(() => {
             className="mt-3"
             placeholder="Введите ваш email..."
             value={email}
-            onChange={(email) => setEmail(email.currentTarget.value)}
+            onChange={(e) => setEmail(e.currentTarget.value)}
             type="text"
           />
           <Form.Control
             className="mt-3"
             placeholder="Введите ваш пароль..."
             value={password}
-            onChange={(password) => setPassword(password.currentTarget.value)}
+            onChange={(e) => setPassword(e.currentTarget.value)}
             type="password"
           />
           <Row className="d-flex justify-content-between mt-3 pl-3 pr-3">
