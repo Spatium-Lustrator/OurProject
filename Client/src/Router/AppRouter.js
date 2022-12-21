@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Navigate, Route, Routes } from "react-router-dom";
-import { INSTITUTEMAP_ROUTE, LOGIN_ROUTE } from "./Consts.js";
+import { INSTITUTEMAP_ROUTE } from "./Consts.js";
 import { authRoutes, publicRoutes } from "./Routes.js";
 import { Context } from "../index";
 import NavBar from "../Components/NavBar";
