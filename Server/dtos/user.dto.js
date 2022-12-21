@@ -1,9 +1,13 @@
 module.exports = class UserDto {
   email;
   id;
+  name;
+  code;
 
-  constructor(email, id) {
-    this.name = email;
+  constructor(email, id, code, name) {
+    this.email = email;
     this.id = id;
+    this.code = code;
+    this.name = name;
   }
 };

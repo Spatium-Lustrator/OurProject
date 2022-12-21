@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
-import { INSTITUTEMAP_ROUTE } from "../Router/Consts";
-import { NavLink } from "react-router-dom";
 import logo from "../img/Кванториум.png";
+import { INSTITUTESPAGE_ROUTE, USERINFO_ROUTE } from "../Router/Consts";
+
 const NavBar = () => {
   return (
     <Navbar style={{ backgroundColor: "white" }} variant="light">
@@ -19,21 +19,16 @@ const NavBar = () => {
         <Nav className="ml-auto">
           <Nav.Link
             style={{ color: "black", fontSize: 24, fontWeight: "medium" }}
-            href="#home"
+            href={INSTITUTESPAGE_ROUTE}
           >
-            Home
+            Институты
           </Nav.Link>
+
           <Nav.Link
             style={{ color: "black", fontSize: 24, fontWeight: "medium" }}
-            href="#features"
+            href={USERINFO_ROUTE}
           >
-            Features
-          </Nav.Link>
-          <Nav.Link
-            style={{ color: "black", fontSize: 24, fontWeight: "medium" }}
-            href="#pricing"
-          >
-            Pricing
+            Аккаунт
           </Nav.Link>
         </Nav>
       </Container>

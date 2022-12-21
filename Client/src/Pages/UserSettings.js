@@ -1,6 +1,7 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import "../Styles/UserSettings.css";
+
 const UserSettings = () => {
   let UserName = "Vova";
   let Email = "adsdsd@gmail.com";

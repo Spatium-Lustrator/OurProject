@@ -1,0 +1,7978 @@
+[
+  {
+    "_reactName": "1",
+    "_targetInst": null,
+    "type": "2",
+    "nativeEvent": "3",
+    "target": "4",
+    "currentTarget": "4",
+    "eventPhase": 3,
+    "bubbles": true,
+    "cancelable": true,
+    "timeStamp": 355105.09999999404,
+    "defaultPrevented": false,
+    "isTrusted": true,
+    "view": "5",
+    "detail": 1,
+    "screenX": 545,
+    "screenY": 657,
+    "clientX": 545,
+    "clientY": 554,
+    "pageX": 545,
+    "pageY": 554,
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "button": 0,
+    "buttons": 0,
+    "relatedTarget": null,
+    "movementX": 0,
+    "movementY": 0
+  },
+  "onClick",
+  "click",
+  {
+    "isTrusted": true
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "6",
+    "__reactProps$3kxqf0t67b": "7"
+  },
+  {
+    "window": "5",
+    "self": "5",
+    "document": "8",
+    "name": "9",
+    "location": "10",
+    "customElements": "11",
+    "history": "12",
+    "locationbar": "13",
+    "menubar": "14",
+    "personalbar": "15",
+    "scrollbars": "16",
+    "statusbar": "17",
+    "toolbar": "18",
+    "status": "9",
+    "closed": false,
+    "frames": "5",
+    "length": 0,
+    "top": "5",
+    "opener": null,
+    "parent": "5",
+    "frameElement": null,
+    "navigator": "19",
+    "origin": "20",
+    "external": "21",
+    "screen": "22",
+    "innerWidth": 991,
+    "innerHeight": 731,
+    "scrollX": 0,
+    "pageXOffset": 0,
+    "scrollY": 0,
+    "pageYOffset": 0,
+    "visualViewport": "23",
+    "screenX": 0,
+    "screenY": 0,
+    "outerWidth": 1536,
+    "outerHeight": 834,
+    "devicePixelRatio": 1.25,
+    "event": "3",
+    "clientInformation": "19",
+    "screenLeft": 0,
+    "screenTop": 0,
+    "styleMedia": "24",
+    "onsearch": null,
+    "isSecureContext": true,
+    "trustedTypes": "25",
+    "performance": "26",
+    "onappinstalled": null,
+    "onbeforeinstallprompt": null,
+    "crypto": "27",
+    "indexedDB": "28",
+    "sessionStorage": "29",
+    "localStorage": "30",
+    "onbeforexrselect": null,
+    "onabort": null,
+    "onbeforeinput": null,
+    "onblur": null,
+    "oncancel": null,
+    "oncanplay": null,
+    "oncanplaythrough": null,
+    "onchange": null,
+    "onclick": null,
+    "onclose": null,
+    "oncontextlost": null,
+    "oncontextmenu": null,
+    "oncontextrestored": null,
+    "oncuechange": null,
+    "ondblclick": null,
+    "ondrag": null,
+    "ondragend": null,
+    "ondragenter": null,
+    "ondragleave": null,
+    "ondragover": null,
+    "ondragstart": null,
+    "ondrop": null,
+    "ondurationchange": null,
+    "onemptied": null,
+    "onended": null,
+    "onerror": null,
+    "onfocus": null,
+    "onformdata": null,
+    "oninput": null,
+    "oninvalid": null,
+    "onkeydown": null,
+    "onkeypress": null,
+    "onkeyup": null,
+    "onload": null,
+    "onloadeddata": null,
+    "onloadedmetadata": null,
+    "onloadstart": null,
+    "onmousedown": null,
+    "onmouseenter": null,
+    "onmouseleave": null,
+    "onmousemove": null,
+    "onmouseout": null,
+    "onmouseover": null,
+    "onmouseup": null,
+    "onmousewheel": null,
+    "onpause": null,
+    "onplay": null,
+    "onplaying": null,
+    "onprogress": null,
+    "onratechange": null,
+    "onreset": null,
+    "onresize": null,
+    "onscroll": null,
+    "onsecuritypolicyviolation": null,
+    "onseeked": null,
+    "onseeking": null,
+    "onselect": null,
+    "onslotchange": null,
+    "onstalled": null,
+    "onsubmit": null,
+    "onsuspend": null,
+    "ontimeupdate": null,
+    "ontoggle": null,
+    "onvolumechange": null,
+    "onwaiting": null,
+    "onwebkitanimationend": null,
+    "onwebkitanimationiteration": null,
+    "onwebkitanimationstart": null,
+    "onwebkittransitionend": null,
+    "onwheel": null,
+    "onauxclick": null,
+    "ongotpointercapture": null,
+    "onlostpointercapture": null,
+    "onpointerdown": null,
+    "onpointermove": null,
+    "onpointerrawupdate": null,
+    "onpointerup": null,
+    "onpointercancel": null,
+    "onpointerover": null,
+    "onpointerout": null,
+    "onpointerenter": null,
+    "onpointerleave": null,
+    "onselectstart": null,
+    "onselectionchange": null,
+    "onanimationend": null,
+    "onanimationiteration": null,
+    "onanimationstart": null,
+    "ontransitionrun": null,
+    "ontransitionstart": null,
+    "ontransitionend": null,
+    "ontransitioncancel": null,
+    "onafterprint": null,
+    "onbeforeprint": null,
+    "onbeforeunload": null,
+    "onhashchange": null,
+    "onlanguagechange": null,
+    "onmessage": null,
+    "onmessageerror": null,
+    "onoffline": null,
+    "ononline": null,
+    "onpagehide": null,
+    "onpageshow": null,
+    "onpopstate": null,
+    "onrejectionhandled": null,
+    "onstorage": null,
+    "onunhandledrejection": null,
+    "onunload": null,
+    "crossOriginIsolated": false,
+    "scheduler": "31",
+    "chrome": "32",
+    "caches": "33",
+    "cookieStore": "34",
+    "ondevicemotion": null,
+    "ondeviceorientation": null,
+    "ondeviceorientationabsolute": null,
+    "launchQueue": "35",
+    "onbeforematch": null,
+    "originAgentCluster": false,
+    "navigation": "36",
+    "webkitStorageInfo": "37",
+    "speechSynthesis": "38",
+    "oncontentvisibilityautostatechange": null,
+    "ReactYandexMaps": "39",
+    "__REACT_DEVTOOLS_GLOBAL_HOOK__": "40",
+    "__reactRefreshInjected": true,
+    "__mobxInstanceCount": 1,
+    "__mobxGlobals": "41",
+    "__EMOTION_REACT_11__": true
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "42",
+    "type": "42",
+    "stateNode": "4",
+    "return": "43",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "44",
+    "memoizedProps": "44",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "45",
+    "actualDuration": 0,
+    "actualStartTime": 353154.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "43",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "type": "42",
+    "disabled": false,
+    "children": "46",
+    "className": "47"
+  },
+  {
+    "location": "10",
+    "_reactListeningp9ri0hzg6hb": true
+  },
+  "",
+  {
+    "ancestorOrigins": "48",
+    "href": "49",
+    "origin": "20",
+    "protocol": "50",
+    "host": "51",
+    "hostname": "52",
+    "port": "53",
+    "pathname": "54",
+    "search": "9",
+    "hash": "9"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  "http://localhost:3000",
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "timeOrigin": 1671372114412.2,
+    "timing": "55",
+    "navigation": "56"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "app": "57"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "renderers": "58",
+    "supportsFiber": true
+  },
+  {
+    "version": 6,
+    "UNCHANGED": "59",
+    "trackingDerivation": null,
+    "trackingContext": null,
+    "runId": 337,
+    "mobxGuid": 1,
+    "inBatch": 0,
+    "pendingUnobservations": "60",
+    "pendingReactions": "61",
+    "isRunningReactions": false,
+    "allowStateChanges": false,
+    "allowStateReads": true,
+    "enforceActions": true,
+    "spyListeners": "62",
+    "globalReactionErrorHandlers": "63",
+    "computedRequiresReaction": false,
+    "reactionRequiresObservable": false,
+    "observableRequiresReaction": false,
+    "disableErrorBoundaries": false,
+    "suppressReactionErrors": false,
+    "useProxies": true,
+    "verifyProxies": false,
+    "safeDescriptors": true
+  },
+  "button",
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "64",
+    "type": "64",
+    "stateNode": null,
+    "return": "65",
+    "child": "6",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "66",
+    "memoizedProps": "66",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "67",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "68",
+    "actualDuration": 0,
+    "actualStartTime": 353154.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "69",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "71"
+  },
+  {
+    "type": "42",
+    "disabled": true,
+    "children": "46",
+    "className": "47"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "42",
+    "type": "42",
+    "stateNode": "4",
+    "return": "68",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "7",
+    "memoizedProps": "7",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "6",
+    "actualDuration": 0,
+    "actualStartTime": 354574.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "68",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "Войти",
+  "ml-auto btn btn-primary",
+  {},
+  "http://localhost:3000/login",
+  "http:",
+  "localhost:3000",
+  "localhost",
+  "3000",
+  "/login",
+  {
+    "connectStart": 1671372114414,
+    "navigationStart": 1671372114412,
+    "secureConnectionStart": 0,
+    "fetchStart": 1671372114414,
+    "domContentLoadedEventStart": 1671372114834,
+    "responseStart": 1671372114424,
+    "domInteractive": 1671372114529,
+    "domainLookupEnd": 1671372114414,
+    "responseEnd": 1671372114427,
+    "redirectStart": 0,
+    "requestStart": 1671372114421,
+    "unloadEventEnd": 1671372114432,
+    "unloadEventStart": 1671372114432,
+    "domLoading": 1671372114436,
+    "domComplete": 1671372114929,
+    "domainLookupStart": 1671372114414,
+    "loadEventStart": 1671372114929,
+    "domContentLoadedEventEnd": 1671372114834,
+    "loadEventEnd": 1671372114934,
+    "redirectEnd": 0,
+    "connectEnd": 1671372114414
+  },
+  {
+    "type": 1,
+    "redirectCount": 0
+  },
+  {
+    "isInstalled": false,
+    "InstallState": "72",
+    "RunningState": "73"
+  },
+  {},
+  {},
+  [],
+  [],
+  [],
+  [],
+  {
+    "defaultProps": "74"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "76",
+    "return": "77",
+    "child": "78",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "79",
+    "memoizedProps": "79",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "80",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.20000000298023224,
+    "_debugOwner": "77",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "81",
+    "disabled": true,
+    "children": "46",
+    "variant": "82",
+    "active": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "83"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "64",
+    "type": "64",
+    "stateNode": null,
+    "return": "80",
+    "child": "45",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "84",
+    "memoizedProps": "84",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "85",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "43",
+    "actualDuration": 0,
+    "actualStartTime": 354574.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "86",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "71"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 118,
+    "columnNumber": 13
+  },
+  {
+    "tag": 15,
+    "key": null,
+    "elementType": "88",
+    "stateNode": null,
+    "return": "89",
+    "child": "90",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "91",
+    "memoizedProps": "91",
+    "updateQueue": "92",
+    "memoizedState": "93",
+    "dependencies": "94",
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "95",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.4999999850988388,
+    "_debugSource": "96",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "97"
+  },
+  ["98"],
+  {
+    "DISABLED": "99",
+    "INSTALLED": "100",
+    "NOT_INSTALLED": "101"
+  },
+  {
+    "CANNOT_RUN": "102",
+    "READY_TO_RUN": "103",
+    "RUNNING": "104"
+  },
+  {
+    "variant": "82",
+    "active": false,
+    "disabled": false
+  },
+  "div",
+  {
+    "__reactFiber$3kxqf0t67b": "65",
+    "__reactProps$3kxqf0t67b": "105"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "106",
+    "type": "106",
+    "stateNode": null,
+    "return": "107",
+    "child": "65",
+    "sibling": null,
+    "index": 4,
+    "ref": null,
+    "pendingProps": "108",
+    "memoizedProps": "108",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "109",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "110",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.20000000298023224,
+    "_debugSource": "111",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "112"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "113",
+    "return": "65",
+    "child": "114",
+    "sibling": "43",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "115",
+    "memoizedProps": "115",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "116",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.20000000298023224,
+    "_debugSource": "117",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "118",
+    "className": "119"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "76",
+    "return": "110",
+    "child": "116",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "120",
+    "memoizedProps": "120",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "65",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugOwner": "110",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "ml-auto",
+  "primary",
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "className": "81",
+    "disabled": false,
+    "children": "46",
+    "variant": "82",
+    "active": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "123"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 118,
+    "columnNumber": 13
+  },
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\Pages\\Auth.js",
+  {
+    "compare": null
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "124",
+    "type": "124",
+    "stateNode": null,
+    "return": "125",
+    "child": "70",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "126",
+    "memoizedProps": "126",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "127",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.4999999850988388,
+    "_debugSource": null,
+    "_debugOwner": "125",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "128",
+    "type": "128",
+    "stateNode": null,
+    "return": "70",
+    "child": "129",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "130",
+    "memoizedProps": "130",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "131",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "132",
+    "actualDuration": 0.5,
+    "actualStartTime": 354574.39999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.3999999910593033,
+    "_debugSource": "133",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "134"
+  },
+  {},
+  {
+    "lastEffect": "135",
+    "stores": null
+  },
+  {
+    "memoizedState": "136",
+    "baseState": "136",
+    "baseQueue": null,
+    "queue": "137",
+    "next": "138"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "139"
+  },
+  {
+    "tag": 15,
+    "key": null,
+    "elementType": "88",
+    "stateNode": null,
+    "return": "127",
+    "child": "132",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "91",
+    "memoizedProps": "91",
+    "updateQueue": "140",
+    "memoizedState": "141",
+    "dependencies": "142",
+    "mode": 3,
+    "flags": 8388608,
+    "subtreeFlags": 8388608,
+    "deletions": null,
+    "lanes": 1,
+    "childLanes": 0,
+    "alternate": "70",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.6000000089406967,
+    "_debugSource": "96",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "97"
+  },
+  {
+    "fileName": "143",
+    "lineNumber": 22,
+    "columnNumber": 35
+  },
+  [
+    "144",
+    "144",
+    "145",
+    "146",
+    "147",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "145",
+    "147",
+    "148",
+    "144",
+    "144",
+    "144",
+    "144",
+    "147",
+    "144"
+  ],
+  "useContext",
+  "disabled",
+  "installed",
+  "not_installed",
+  "cannot_run",
+  "ready_to_run",
+  "running",
+  {
+    "children": "149",
+    "className": "119"
+  },
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "150",
+    "type": "150",
+    "stateNode": "151",
+    "return": "152",
+    "child": "153",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "154",
+    "memoizedProps": "154",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "155",
+    "actualDuration": 0.4000000059604645,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.30000001192092896,
+    "_debugOwner": "152",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "156",
+    "children": "118"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "157"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "106",
+    "type": "106",
+    "stateNode": null,
+    "return": "155",
+    "child": "80",
+    "sibling": null,
+    "index": 4,
+    "ref": null,
+    "pendingProps": "158",
+    "memoizedProps": "158",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "159",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "77",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "160",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "112"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 106,
+    "columnNumber": 11
+  },
+  ["98", "98", "98"],
+  {
+    "__reactFiber$3kxqf0t67b": "78",
+    "__reactProps$3kxqf0t67b": "161"
+  },
+  {
+    "tag": 6,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "162",
+    "return": "78",
+    "child": null,
+    "sibling": "163",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "164",
+    "memoizedProps": "164",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "165",
+    "actualDuration": 0,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "166"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "113",
+    "return": "80",
+    "child": "165",
+    "sibling": "68",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "167",
+    "memoizedProps": "167",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "78",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "168",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 108,
+    "columnNumber": 15
+  },
+  ["169", "170"],
+  "d-flex justify-content-between mt-3 pl-3 pr-3 row",
+  {
+    "children": "171",
+    "className": "119"
+  },
+  {
+    "_currentValue": "122",
+    "_currentValue2": "122",
+    "_threadCount": 0,
+    "Provider": "172",
+    "Consumer": "173",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null
+  },
+  {
+    "prefixes": "174",
+    "breakpoints": "175",
+    "minBreakpoint": "176"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "_context": "177"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "178",
+    "child": "89",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "179",
+    "memoizedProps": "179",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "180",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "181",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.4999999850988388,
+    "_debugSource": null,
+    "_debugOwner": "178",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "182"
+  },
+  {
+    "value": "183",
+    "children": "184"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "124",
+    "type": "124",
+    "stateNode": null,
+    "return": "181",
+    "child": "95",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "126",
+    "memoizedProps": "126",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8388608,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "89",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.6000000089406967,
+    "_debugSource": null,
+    "_debugOwner": "181",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "defaultProps": "185"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "186",
+    "return": "90",
+    "child": "187",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "188",
+    "memoizedProps": "188",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "189",
+    "actualDuration": 0.5,
+    "actualStartTime": 354574.39999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.3999999910593033,
+    "_debugOwner": "90",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "190",
+    "style": "191",
+    "children": "192",
+    "fluid": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "193"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "128",
+    "type": "128",
+    "stateNode": null,
+    "return": "70",
+    "child": "189",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "194",
+    "memoizedProps": "194",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "195",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "90",
+    "actualDuration": 0.6000000089406967,
+    "actualStartTime": 353153.6999999881,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 0.5000000149011612,
+    "_debugSource": "196",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "134"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 57,
+    "columnNumber": 5
+  },
+  ["98"],
+  {
+    "tag": 8,
+    "deps": "197",
+    "next": "198"
+  },
+  {},
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "136"
+  },
+  {
+    "baseQueue": null,
+    "queue": "199",
+    "next": "200"
+  },
+  {
+    "context": "201",
+    "memoizedValue": "202",
+    "next": "203"
+  },
+  {
+    "lastEffect": "204",
+    "stores": null
+  },
+  {
+    "memoizedState": "136",
+    "baseState": "136",
+    "baseQueue": null,
+    "queue": "137",
+    "next": "205"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "206"
+  },
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\Router\\Routes.js",
+  "useState",
+  "useRef",
+  "useDebugValue",
+  "useEffect",
+  "useCallback",
+  ["207", "208"],
+  "form",
+  {
+    "0": "209",
+    "1": "210",
+    "2": "211",
+    "3": "4",
+    "__reactFiber$3kxqf0t67b": "107",
+    "__reactProps$3kxqf0t67b": "212"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "213",
+    "type": "213",
+    "stateNode": null,
+    "return": "214",
+    "child": "107",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "215",
+    "memoizedProps": "215",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "216",
+    "actualDuration": 0.5,
+    "actualStartTime": 353153.799999997,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.4000000059604645,
+    "_debugSource": "217",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "218",
+    "type": "218",
+    "stateNode": null,
+    "return": "107",
+    "child": "219",
+    "sibling": "220",
+    "index": 1,
+    "ref": null,
+    "pendingProps": "221",
+    "memoizedProps": "221",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "222",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "223",
+    "actualDuration": 0,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "224",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "225"
+  },
+  {
+    "children": "226",
+    "className": "227"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "150",
+    "type": "150",
+    "stateNode": "151",
+    "return": "216",
+    "child": "223",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "228",
+    "memoizedProps": "228",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "107",
+    "actualDuration": 0.3999999910593033,
+    "actualStartTime": 354574.5,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.29999998211860657,
+    "_debugOwner": "216",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "d-flex justify-content-between mt-3 pl-3 pr-3",
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "229"
+  },
+  {
+    "className": "156",
+    "children": "171"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "230"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 106,
+    "columnNumber": 11
+  },
+  {
+    "children": "231"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "114"
+  },
+  {
+    "tag": 6,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "232",
+    "return": "78",
+    "child": null,
+    "sibling": "233",
+    "index": 1,
+    "ref": null,
+    "pendingProps": "234",
+    "memoizedProps": "234",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "235",
+    "actualDuration": 0,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "Нет аккаунта?",
+  {
+    "tag": 6,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "162",
+    "return": "116",
+    "child": null,
+    "sibling": "235",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "164",
+    "memoizedProps": "164",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "114",
+    "actualDuration": 0,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  ["164", "234", "236"],
+  {
+    "children": "237"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 108,
+    "columnNumber": 15
+  },
+  {
+    "type": "75",
+    "key": null,
+    "ref": null,
+    "props": "115",
+    "_owner": "70",
+    "_store": "238"
+  },
+  {
+    "type": "64",
+    "key": null,
+    "ref": null,
+    "props": "66",
+    "_owner": "70",
+    "_store": "239"
+  },
+  ["240", "241"],
+  {
+    "_context": "121"
+  },
+  {
+    "_context": "121"
+  },
+  {},
+  ["242", "243", "244", "245", "246", "176"],
+  "xs",
+  {
+    "_currentValue": "247",
+    "_currentValue2": "247",
+    "_threadCount": 0,
+    "Provider": "124",
+    "Consumer": "248",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null,
+    "displayName": "250"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "251",
+    "child": "125",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "252",
+    "memoizedProps": "252",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "253",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "254",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.9000000059604645,
+    "treeBaseDuration": 1.3999999910593033,
+    "_debugSource": "255",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "257"
+  },
+  {
+    "match": "258",
+    "routeContext": "183",
+    "children": "184"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "259"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "254",
+    "child": "127",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "179",
+    "memoizedProps": "179",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "180",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8388608,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "125",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.6000000089406967,
+    "_debugSource": null,
+    "_debugOwner": "254",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "182"
+  },
+  ["98"],
+  {
+    "outlet": null,
+    "matches": "260"
+  },
+  {
+    "type": "88",
+    "key": null,
+    "ref": null,
+    "props": "91",
+    "_owner": null,
+    "_store": "261"
+  },
+  {
+    "fluid": false
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "189",
+    "__reactProps$3kxqf0t67b": "262"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "263",
+    "type": "263",
+    "stateNode": null,
+    "return": "129",
+    "child": "264",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "265",
+    "memoizedProps": "265",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "266",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "267",
+    "actualDuration": 0.5,
+    "actualStartTime": 354574.39999999106,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 0.3999999910593033,
+    "_debugSource": "268",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "269"
+  },
+  {
+    "style": "191",
+    "children": "192",
+    "className": "270"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "186",
+    "return": "132",
+    "child": "267",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "271",
+    "memoizedProps": "271",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "129",
+    "actualDuration": 0.5,
+    "actualStartTime": 353153.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.4000000059604645,
+    "_debugOwner": "132",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "d-flex justify-content-center align-items-center",
+  {
+    "height": 674
+  },
+  {
+    "type": "263",
+    "key": null,
+    "ref": null,
+    "props": "265",
+    "_owner": "70",
+    "_store": "272"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "className": "190",
+    "style": "273",
+    "children": "274",
+    "fluid": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "275"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 57,
+    "columnNumber": 5
+  },
+  ["276", "276"],
+  {
+    "tag": 8,
+    "deps": "277",
+    "next": "278"
+  },
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0
+  },
+  {
+    "memoizedState": "279",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "280"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "281",
+    "Consumer": "282",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null
+  },
+  {
+    "user": "283"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "286"
+  },
+  {
+    "tag": 9,
+    "deps": "287",
+    "next": "288"
+  },
+  {
+    "baseQueue": null,
+    "queue": "199",
+    "next": "289"
+  },
+  {
+    "context": "201",
+    "memoizedValue": "202",
+    "next": "290"
+  },
+  {
+    "type": "75",
+    "key": null,
+    "ref": null,
+    "props": "161",
+    "_owner": "95",
+    "_store": "291"
+  },
+  {
+    "type": "64",
+    "key": null,
+    "ref": null,
+    "props": "292",
+    "_owner": "95",
+    "_store": "293"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "219",
+    "__reactProps$3kxqf0t67b": "294",
+    "_wrapperState": "295",
+    "__reactEvents$3kxqf0t67b": "296",
+    "value": "276",
+    "_valueTracker": "297"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "298",
+    "__reactProps$3kxqf0t67b": "299",
+    "_wrapperState": "300",
+    "__reactEvents$3kxqf0t67b": "301",
+    "value": "276",
+    "_valueTracker": "302"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "303",
+    "__reactProps$3kxqf0t67b": "304",
+    "_wrapperState": "305",
+    "__reactEvents$3kxqf0t67b": "306",
+    "checked": true,
+    "_valueTracker": "307"
+  },
+  {
+    "children": "308",
+    "className": "227"
+  },
+  {
+    "propTypes": "309",
+    "Group": "310",
+    "Control": "218",
+    "Floating": "311",
+    "Check": "312",
+    "Switch": "313",
+    "Label": "314",
+    "Text": "315",
+    "Range": "316",
+    "Select": "317",
+    "FloatingLabel": "318"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "319",
+    "return": "267",
+    "child": "320",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "321",
+    "memoizedProps": "321",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "264",
+    "actualDuration": 0.5,
+    "actualStartTime": 353153.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.4000000059604645,
+    "_debugOwner": "267",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "227",
+    "children": "226"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "213",
+    "type": "213",
+    "stateNode": null,
+    "return": "264",
+    "child": "155",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "322",
+    "memoizedProps": "322",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "152",
+    "actualDuration": 0.3999999910593033,
+    "actualStartTime": 354574.5,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.29999998211860657,
+    "_debugSource": "323",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 63,
+    "columnNumber": 9
+  },
+  {
+    "Feedback": "324"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "209",
+    "return": "153",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "326",
+    "memoizedProps": "326",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "327",
+    "actualDuration": 0,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "153",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "218",
+    "type": "218",
+    "stateNode": null,
+    "return": "107",
+    "child": "298",
+    "sibling": "328",
+    "index": 2,
+    "ref": null,
+    "pendingProps": "329",
+    "memoizedProps": "329",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "330",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "331",
+    "actualDuration": 0,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "332",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "333"
+  },
+  {
+    "className": "334",
+    "placeholder": "335",
+    "value": "276",
+    "type": "336"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "337"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "218",
+    "type": "218",
+    "stateNode": null,
+    "return": "155",
+    "child": "327",
+    "sibling": "331",
+    "index": 1,
+    "ref": null,
+    "pendingProps": "338",
+    "memoizedProps": "338",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "339",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "153",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.5,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "340",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "225"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 82,
+    "columnNumber": 11
+  },
+  ["98", "98"],
+  [null, "341", "342", "343", "344"],
+  "d-flex flex-column",
+  {
+    "children": "345",
+    "className": "227"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "346"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "347"
+  },
+  ["164", "234", "348"],
+  {
+    "__reactFiber$3kxqf0t67b": "163"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "349",
+    "type": "349",
+    "stateNode": null,
+    "return": "78",
+    "child": "350",
+    "sibling": null,
+    "index": 2,
+    "ref": null,
+    "pendingProps": "351",
+    "memoizedProps": "351",
+    "updateQueue": null,
+    "memoizedState": "352",
+    "dependencies": "353",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "354",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353154.09999999404,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.20000000298023224,
+    "_debugSource": "355",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "356"
+  },
+  " ",
+  {
+    "tag": 6,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "232",
+    "return": "116",
+    "child": null,
+    "sibling": "354",
+    "index": 1,
+    "ref": null,
+    "pendingProps": "234",
+    "memoizedProps": "234",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "163",
+    "actualDuration": 0,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "type": "349",
+    "key": null,
+    "ref": null,
+    "props": "351",
+    "_owner": "70",
+    "_store": "357"
+  },
+  ["164", "234", "358"],
+  {},
+  {},
+  {
+    "type": "75",
+    "key": null,
+    "ref": null,
+    "props": "167",
+    "_owner": "70",
+    "_store": "359"
+  },
+  {
+    "type": "64",
+    "key": null,
+    "ref": null,
+    "props": "84",
+    "_owner": "70",
+    "_store": "360"
+  },
+  "xxl",
+  "xl",
+  "lg",
+  "md",
+  "sm",
+  {
+    "outlet": null,
+    "matches": "361"
+  },
+  {
+    "_context": "177"
+  },
+  {},
+  "Route",
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "362",
+    "return": "363",
+    "child": "364",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "365",
+    "memoizedProps": "365",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "366",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.0999999940395355,
+    "_debugSource": "367",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "368"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "369"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "366",
+    "child": "181",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "252",
+    "memoizedProps": "252",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "253",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8388608,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "178",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0.9000000059604645,
+    "treeBaseDuration": 1.5000000149011612,
+    "_debugSource": "255",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "257"
+  },
+  {
+    "fileName": "370",
+    "lineNumber": 13,
+    "columnNumber": 7
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "371",
+    "child": "366",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "372",
+    "memoizedProps": "372",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "373",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "363",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0.29999999701976776,
+    "treeBaseDuration": 4.500000014901161,
+    "_debugSource": "374",
+    "_debugOwner": "375",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "376"
+  },
+  ["98", "98", "98", "98", "98", "98"],
+  {
+    "params": "377",
+    "pathname": "54",
+    "pathnameBase": "54",
+    "route": "378"
+  },
+  {
+    "context": "379",
+    "memoizedValue": null,
+    "next": null
+  },
+  ["258"],
+  {},
+  {
+    "style": "380",
+    "children": "381",
+    "className": "270"
+  },
+  {
+    "defaultProps": "382",
+    "Img": "383",
+    "Title": "384",
+    "Subtitle": "385",
+    "Body": "386",
+    "Link": "387",
+    "Text": "388",
+    "Header": "389",
+    "Footer": "390",
+    "ImgOverlay": "391"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "319",
+    "return": "187",
+    "child": "392",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "393",
+    "memoizedProps": "393",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "214",
+    "actualDuration": 0.3999999910593033,
+    "actualStartTime": 354574.5,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.29999998211860657,
+    "_debugOwner": "187",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "394",
+    "className": "395",
+    "children": "396",
+    "body": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "397"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "263",
+    "type": "263",
+    "stateNode": null,
+    "return": "189",
+    "child": "214",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "398",
+    "memoizedProps": "398",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "399",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "187",
+    "actualDuration": 0.5,
+    "actualStartTime": 353153.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.4000000059604645,
+    "_debugSource": "400",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "269"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 61,
+    "columnNumber": 7
+  },
+  ["98"],
+  "d-flex justify-content-center align-items-center container",
+  {
+    "style": "273",
+    "children": "274",
+    "className": "270"
+  },
+  {},
+  {
+    "height": 674
+  },
+  {
+    "type": "263",
+    "key": null,
+    "ref": null,
+    "props": "398",
+    "_owner": "70",
+    "_store": "401"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  [],
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "135"
+  },
+  {
+    "current": "402"
+  },
+  {
+    "memoizedState": "198",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "403"
+  },
+  {
+    "_context": "201"
+  },
+  {
+    "_context": "201"
+  },
+  {
+    "_isAuth": false,
+    "_user": "404"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "405",
+    "Consumer": "406",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null,
+    "displayName": "407"
+  },
+  {
+    "location": "408",
+    "navigationType": "409"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "410"
+  },
+  ["276", "276"],
+  {
+    "tag": 8,
+    "deps": "411",
+    "next": "412"
+  },
+  {
+    "memoizedState": "279",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "413"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "414"
+  },
+  {},
+  {
+    "className": "81",
+    "disabled": true,
+    "children": "46",
+    "variant": "82",
+    "active": false
+  },
+  {},
+  {
+    "placeholder": "335",
+    "value": "276",
+    "type": "336",
+    "className": "415"
+  },
+  {
+    "initialValue": "9",
+    "controlled": true
+  },
+  {},
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "210",
+    "return": "220",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "416",
+    "memoizedProps": "416",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "417",
+    "actualDuration": 0,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "220",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "placeholder": "418",
+    "value": "276",
+    "type": "419",
+    "className": "415"
+  },
+  {
+    "initialValue": "9",
+    "controlled": true
+  },
+  {},
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "211",
+    "return": "420",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "421",
+    "memoizedProps": "421",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "422",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "420",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "disabled": false,
+    "type": "423",
+    "id": "424",
+    "className": "425"
+  },
+  {
+    "initialValue": "9",
+    "controlled": false
+  },
+  {},
+  {},
+  [null, "426", "427", "428", "429"],
+  {},
+  {},
+  {},
+  {
+    "Input": "430",
+    "Label": "431"
+  },
+  {
+    "Input": "430",
+    "Label": "431"
+  },
+  {
+    "defaultProps": "432"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "__reactFiber$3kxqf0t67b": "214",
+    "__reactProps$3kxqf0t67b": "433"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "434",
+    "type": "434",
+    "stateNode": "435",
+    "return": "214",
+    "child": null,
+    "sibling": "152",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "436",
+    "memoizedProps": "436",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "392",
+    "actualDuration": 0,
+    "actualStartTime": 353153.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "437",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "438",
+    "className": "439",
+    "children": "440"
+  },
+  {
+    "className": "227",
+    "children": "345"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 63,
+    "columnNumber": 9
+  },
+  {
+    "propTypes": "441"
+  },
+  "input",
+  {
+    "placeholder": "335",
+    "value": "276",
+    "type": "336",
+    "className": "415"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "209",
+    "return": "223",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "294",
+    "memoizedProps": "294",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "219",
+    "actualDuration": 0,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "223",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "106",
+    "type": "106",
+    "stateNode": null,
+    "return": "107",
+    "child": "442",
+    "sibling": "77",
+    "index": 3,
+    "ref": null,
+    "pendingProps": "443",
+    "memoizedProps": "443",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "444",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "445",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.10000000894069672,
+    "_debugSource": "446",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "447"
+  },
+  {
+    "className": "334",
+    "placeholder": "418",
+    "value": "276",
+    "type": "419"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "448"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "218",
+    "type": "218",
+    "stateNode": null,
+    "return": "155",
+    "child": "417",
+    "sibling": "445",
+    "index": 2,
+    "ref": null,
+    "pendingProps": "449",
+    "memoizedProps": "449",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "450",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "220",
+    "actualDuration": 0,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "451",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "333"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 89,
+    "columnNumber": 11
+  },
+  ["98", "98"],
+  "mt-3",
+  "Введите ваш email...",
+  "text",
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": "454"
+  },
+  {
+    "className": "334",
+    "placeholder": "335",
+    "value": "276",
+    "type": "336"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "455"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 82,
+    "columnNumber": 11
+  },
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "221",
+    "_owner": "70",
+    "_store": "456"
+  },
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "329",
+    "_owner": "70",
+    "_store": "457"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "443",
+    "_owner": "70",
+    "_store": "458"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "108",
+    "_owner": "70",
+    "_store": "459"
+  },
+  [null, "460", "461", "462", "463"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "464"
+  },
+  {
+    "type": "349",
+    "key": null,
+    "ref": null,
+    "props": "465",
+    "_owner": "95",
+    "_store": "466"
+  },
+  {},
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "467",
+    "type": "467",
+    "stateNode": null,
+    "return": "233",
+    "child": "468",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "469",
+    "memoizedProps": "469",
+    "updateQueue": "470",
+    "memoizedState": "471",
+    "dependencies": "472",
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "473",
+    "actualDuration": 0.10000000894069672,
+    "actualStartTime": 353154.1999999881,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 0.10000000894069672,
+    "_debugSource": null,
+    "_debugOwner": "233",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "474"
+  },
+  {
+    "to": "475",
+    "children": "476"
+  },
+  {
+    "memoizedState": "477",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "478"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "479"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "349",
+    "type": "349",
+    "stateNode": null,
+    "return": "116",
+    "child": "473",
+    "sibling": null,
+    "index": 2,
+    "ref": null,
+    "pendingProps": "480",
+    "memoizedProps": "480",
+    "updateQueue": null,
+    "memoizedState": "481",
+    "dependencies": "482",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 8390661,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "233",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "483",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "356"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 110,
+    "columnNumber": 17
+  },
+  [
+    "98",
+    "98",
+    "98",
+    "484",
+    "98",
+    "98",
+    "98",
+    "484",
+    "98",
+    "98",
+    "98",
+    "98",
+    "484",
+    "484"
+  ],
+  {},
+  {
+    "type": "349",
+    "key": null,
+    "ref": null,
+    "props": "480",
+    "_owner": "70",
+    "_store": "485"
+  },
+  {},
+  {},
+  [],
+  {
+    "__reactFiber$3kxqf0t67b": "366",
+    "__reactProps$3kxqf0t67b": "365"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "486",
+    "child": "251",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "372",
+    "memoizedProps": "372",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "373",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "256",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.29999999701976776,
+    "treeBaseDuration": 4.399999991059303,
+    "_debugSource": "374",
+    "_debugOwner": "375",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "376"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "251",
+    "child": "487",
+    "sibling": "178",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "488",
+    "memoizedProps": "488",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "489",
+    "actualDuration": 0,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 2.7000000029802322,
+    "_debugSource": "490",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "491"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "362",
+    "return": "256",
+    "child": "489",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "365",
+    "memoizedProps": "365",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "251",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.200000017881393,
+    "_debugSource": "367",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "370",
+    "lineNumber": 11,
+    "columnNumber": 5
+  },
+  ["492", "493", "494"],
+  {
+    "context": "495",
+    "memoizedValue": null,
+    "next": "496"
+  },
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\Router\\AppRouter.js",
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "405",
+    "type": "405",
+    "stateNode": null,
+    "return": "497",
+    "child": "256",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "498",
+    "memoizedProps": "498",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "486",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.500000014901161,
+    "_debugSource": null,
+    "_debugOwner": "499",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {},
+  {
+    "lanes": 0,
+    "firstContext": "500"
+  },
+  {
+    "fileName": "501",
+    "lineNumber": 8,
+    "columnNumber": 7
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "502",
+    "child": "503",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "504",
+    "memoizedProps": "504",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14680064,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "505",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 4.80000002682209,
+    "_debugSource": "506",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  ["98"],
+  {},
+  {
+    "id": "507",
+    "element": "184",
+    "path": "54",
+    "hasErrorBoundary": false
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "508",
+    "Consumer": "509",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null,
+    "displayName": "510"
+  },
+  {
+    "height": 674
+  },
+  {
+    "type": "263",
+    "key": null,
+    "ref": null,
+    "props": "511",
+    "_owner": "95",
+    "_store": "512"
+  },
+  {
+    "body": false
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "434",
+    "type": "434",
+    "stateNode": "435",
+    "return": "264",
+    "child": null,
+    "sibling": "216",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "513",
+    "memoizedProps": "513",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "320",
+    "actualDuration": 0,
+    "actualStartTime": 354574.5,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "514",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "394",
+    "className": "439",
+    "children": "396"
+  },
+  {
+    "width": 600
+  },
+  "p-5",
+  ["515", "516"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "style": "438",
+    "className": "395",
+    "children": "440",
+    "body": false
+  },
+  {
+    "lanes": 0,
+    "firstContext": "517"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 61,
+    "columnNumber": 7
+  },
+  {},
+  {
+    "reaction": "518",
+    "mounted": true,
+    "changedBeforeMount": false,
+    "cleanAt": 1671372469813,
+    "finalizationRegistryCleanupToken": 8
+  },
+  {
+    "memoizedState": "519",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "520"
+  },
+  {},
+  {
+    "_context": "284"
+  },
+  {
+    "_context": "284"
+  },
+  "Location",
+  {
+    "pathname": "54",
+    "search": "9",
+    "hash": "9",
+    "state": null,
+    "key": "424"
+  },
+  "POP",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "521"
+  },
+  [],
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "204"
+  },
+  {
+    "memoizedState": "522",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "523"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "524"
+  },
+  "mt-3 form-control",
+  {
+    "placeholder": "418",
+    "value": "276",
+    "type": "419",
+    "className": "415"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "210",
+    "return": "331",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "299",
+    "memoizedProps": "299",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "298",
+    "actualDuration": 0,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "331",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "Введите ваш пароль...",
+  "password",
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "430",
+    "type": "430",
+    "stateNode": null,
+    "return": "525",
+    "child": "303",
+    "sibling": "526",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "527",
+    "memoizedProps": "527",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "528",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "529",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "530",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "531"
+  },
+  {
+    "disabled": false,
+    "type": "423",
+    "id": "424",
+    "className": "425"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "325",
+    "type": "325",
+    "stateNode": "211",
+    "return": "529",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "304",
+    "memoizedProps": "304",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "303",
+    "actualDuration": 0,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "529",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "checkbox",
+  "default",
+  "form-check-input",
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "532",
+    "_owner": "95",
+    "_store": "533"
+  },
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "534",
+    "_owner": "95",
+    "_store": "535"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "536",
+    "_owner": "95",
+    "_store": "537"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "538",
+    "_owner": "95",
+    "_store": "539"
+  },
+  {},
+  {},
+  {
+    "column": false,
+    "visuallyHidden": false
+  },
+  {
+    "style": "540",
+    "className": "439",
+    "children": "541"
+  },
+  "h2",
+  {
+    "__reactFiber$3kxqf0t67b": "320",
+    "__reactProps$3kxqf0t67b": "542"
+  },
+  {
+    "className": "543",
+    "children": "544"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 62,
+    "columnNumber": 9
+  },
+  {
+    "width": 600
+  },
+  "p-5 card",
+  ["545", "546"],
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "547",
+    "return": "328",
+    "child": "530",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "548",
+    "memoizedProps": "548",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "549",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 353153.89999999106,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 0.10000000894069672,
+    "_debugOwner": "328",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "550",
+    "children": "551"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "552"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "106",
+    "type": "106",
+    "stateNode": null,
+    "return": "155",
+    "child": "549",
+    "sibling": "110",
+    "index": 3,
+    "ref": null,
+    "pendingProps": "553",
+    "memoizedProps": "553",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "554",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "328",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "555",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "447"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 96,
+    "columnNumber": 11
+  },
+  ["98", "98", "98"],
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": "556"
+  },
+  {
+    "className": "334",
+    "placeholder": "418",
+    "value": "276",
+    "type": "419"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "557"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 89,
+    "columnNumber": 11
+  },
+  {
+    "_currentValue": "453",
+    "_currentValue2": "453",
+    "_threadCount": 0,
+    "Provider": "558",
+    "Consumer": "559",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null
+  },
+  {},
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": "560"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "338",
+    "_owner": "70",
+    "_store": "561"
+  },
+  {
+    "type": "218",
+    "key": null,
+    "ref": null,
+    "props": "449",
+    "_owner": "70",
+    "_store": "562"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "553",
+    "_owner": "70",
+    "_store": "563"
+  },
+  {
+    "type": "106",
+    "key": null,
+    "ref": null,
+    "props": "158",
+    "_owner": "70",
+    "_store": "564"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "to": "475",
+    "children": "476"
+  },
+  {},
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "566",
+    "return": "350",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "567",
+    "memoizedProps": "567",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "568",
+    "actualDuration": 0,
+    "actualStartTime": 353154.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": null,
+    "_debugOwner": "350",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "9",
+    "to": "475",
+    "children": "476"
+  },
+  {
+    "lastEffect": "569",
+    "stores": null
+  },
+  {
+    "memoizedState": "570",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "571"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "572"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "467",
+    "type": "467",
+    "stateNode": null,
+    "return": "354",
+    "child": "568",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "573",
+    "memoizedProps": "573",
+    "updateQueue": "574",
+    "memoizedState": "575",
+    "dependencies": "576",
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "350",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": null,
+    "_debugOwner": "354",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "474"
+  },
+  [
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "484",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "145",
+    "147",
+    "148",
+    "98",
+    "98",
+    "98",
+    "98",
+    "98",
+    "484",
+    "148"
+  ],
+  "/registration",
+  "Зарегистрируйся!",
+  ["577", "578"],
+  {
+    "memoizedState": "579",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "580"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "581"
+  },
+  {
+    "to": "475",
+    "children": "476"
+  },
+  {
+    "memoizedState": "477",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "582"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "583"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 110,
+    "columnNumber": 17
+  },
+  "useMemo",
+  {},
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "405",
+    "type": "405",
+    "stateNode": null,
+    "return": "584",
+    "child": "363",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "498",
+    "memoizedProps": "498",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "371",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.399999991059303,
+    "_debugSource": null,
+    "_debugOwner": "585",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "586",
+    "type": "586",
+    "stateNode": null,
+    "return": "364",
+    "child": "587",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "588",
+    "memoizedProps": "588",
+    "updateQueue": null,
+    "memoizedState": "589",
+    "dependencies": "590",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 4.699999988079071,
+    "actualStartTime": 73975,
+    "selfBaseDuration": 0.19999998807907104,
+    "treeBaseDuration": 2.5999999940395355,
+    "_debugSource": "591",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "592"
+  },
+  {},
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "366",
+    "child": "487",
+    "sibling": "254",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "488",
+    "memoizedProps": "488",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "364",
+    "actualDuration": 0,
+    "actualStartTime": 353156.299999997,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 2.7000000029802322,
+    "_debugSource": "490",
+    "_debugOwner": "256",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "370",
+    "lineNumber": 12,
+    "columnNumber": 7
+  },
+  ["593", "594"],
+  ["595", "596", "597", "598", "599", "600"],
+  ["601", "602", "603", "604"],
+  {
+    "key": null,
+    "ref": null,
+    "props": "605",
+    "_owner": "256",
+    "_store": "606"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "607",
+    "Consumer": "608",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null,
+    "displayName": "609"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "610"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "611",
+    "type": "611",
+    "stateNode": null,
+    "return": "499",
+    "child": "371",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "612",
+    "memoizedProps": "612",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "584",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.500000014901161,
+    "_debugSource": null,
+    "_debugOwner": "499",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "613",
+    "value": "285"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "503",
+    "child": "497",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "614",
+    "memoizedProps": "614",
+    "updateQueue": null,
+    "memoizedState": "615",
+    "dependencies": "616",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "585",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 4.600000008940697,
+    "_debugSource": null,
+    "_debugOwner": "503",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "617"
+  },
+  {
+    "context": "201",
+    "memoizedValue": "202",
+    "next": null
+  },
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\App.js",
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "281",
+    "type": "281",
+    "stateNode": null,
+    "return": "618",
+    "child": "375",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "619",
+    "memoizedProps": "619",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14680064,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "620",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0.20000000298023224,
+    "treeBaseDuration": 5.000000029802322,
+    "_debugSource": "621",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "375",
+    "child": "499",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "622",
+    "memoizedProps": "622",
+    "updateQueue": "623",
+    "memoizedState": "624",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4194304,
+    "subtreeFlags": 10485760,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "625",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 4.700000017881393,
+    "_debugSource": "626",
+    "_debugOwner": "375",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "627"
+  },
+  {},
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "620",
+    "child": "625",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "504",
+    "memoizedProps": "504",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14682117,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "375",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 4.700000002980232,
+    "_debugSource": "506",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "628",
+    "lineNumber": 15,
+    "columnNumber": 5
+  },
+  "6",
+  {
+    "_context": "379"
+  },
+  {
+    "_context": "379"
+  },
+  "DataStaticRouterContext",
+  {
+    "style": "540",
+    "className": "395",
+    "children": "541",
+    "body": false
+  },
+  {},
+  {
+    "className": "543",
+    "children": "544"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 62,
+    "columnNumber": 9
+  },
+  {
+    "type": "434",
+    "key": null,
+    "ref": null,
+    "props": "513",
+    "_owner": "70",
+    "_store": "629"
+  },
+  {
+    "type": "213",
+    "key": null,
+    "ref": null,
+    "props": "322",
+    "_owner": "70",
+    "_store": "630"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "name_": "631",
+    "observing_": "632",
+    "newObserving_": null,
+    "dependenciesState_": 0,
+    "diffValue_": 0,
+    "runId_": 337,
+    "unboundDepsCount_": 0,
+    "isDisposed_": false,
+    "isScheduled_": false,
+    "isTrackPending_": false,
+    "isRunning_": false,
+    "isTracing_": 0
+  },
+  {
+    "current": true
+  },
+  {
+    "memoizedState": "278",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "633"
+  },
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "636"
+  },
+  {
+    "tag": 8,
+    "deps": "637",
+    "next": "638"
+  },
+  {
+    "memoizedState": "519",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "639"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "640"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "641",
+    "return": "642",
+    "child": "420",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "643",
+    "memoizedProps": "643",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "644",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "530",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "431",
+    "type": "431",
+    "stateNode": null,
+    "return": "525",
+    "child": "645",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "646",
+    "memoizedProps": "646",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "647",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "648",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "530",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "649"
+  },
+  {
+    "type": "423",
+    "isValid": false,
+    "isInvalid": false,
+    "disabled": false,
+    "as": "325"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "650"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "430",
+    "type": "430",
+    "stateNode": null,
+    "return": "644",
+    "child": "422",
+    "sibling": "648",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "651",
+    "memoizedProps": "651",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "652",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "420",
+    "actualDuration": 0,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "653",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "531"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "312",
+    "type": "312",
+    "stateNode": null,
+    "return": "442",
+    "child": "642",
+    "sibling": "654",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "655",
+    "memoizedProps": "655",
+    "updateQueue": null,
+    "memoizedState": "656",
+    "dependencies": "657",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "653",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "658",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "659"
+  },
+  ["98", "98"],
+  {
+    "className": "334",
+    "placeholder": "335",
+    "value": "9",
+    "type": "336"
+  },
+  {},
+  {
+    "className": "334",
+    "placeholder": "418",
+    "value": "9",
+    "type": "419"
+  },
+  {},
+  {
+    "style": "660",
+    "children": "661"
+  },
+  {},
+  {
+    "className": "156",
+    "children": "149"
+  },
+  {},
+  {
+    "width": 600
+  },
+  ["662", "663"],
+  {
+    "className": "543",
+    "children": "544"
+  },
+  "m-auto",
+  "Авторизация",
+  {
+    "type": "434",
+    "key": null,
+    "ref": null,
+    "props": "436",
+    "_owner": "70",
+    "_store": "664"
+  },
+  {
+    "type": "213",
+    "key": null,
+    "ref": null,
+    "props": "215",
+    "_owner": "70",
+    "_store": "665"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "442",
+    "__reactProps$3kxqf0t67b": "666"
+  },
+  {
+    "style": "550",
+    "children": "551",
+    "className": "667"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "547",
+    "return": "445",
+    "child": "653",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "668",
+    "memoizedProps": "668",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "442",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugOwner": "445",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "margin": "669"
+  },
+  ["670", "671"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "672"
+  },
+  {
+    "style": "673",
+    "children": "674"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "675"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 96,
+    "columnNumber": 11
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": "676"
+  },
+  {
+    "_context": "452"
+  },
+  {
+    "_context": "452"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {},
+  {},
+  {},
+  {},
+  "a",
+  {
+    "__reactFiber$3kxqf0t67b": "468",
+    "__reactProps$3kxqf0t67b": "677"
+  },
+  {
+    "className": "9",
+    "children": "476",
+    "href": "475"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "566",
+    "return": "473",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "677",
+    "memoizedProps": "677",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "468",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": null,
+    "_debugOwner": "473",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "569"
+  },
+  ["678", "679"],
+  {
+    "memoizedState": "680",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "681"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "682"
+  },
+  {
+    "className": "9",
+    "to": "475",
+    "children": "476"
+  },
+  {
+    "lastEffect": "683",
+    "stores": null
+  },
+  {
+    "memoizedState": "570",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "684"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "685"
+  },
+  {
+    "pathname": "475",
+    "search": "9",
+    "hash": "9"
+  },
+  ["475", "686", "54", null],
+  [null, "687"],
+  {
+    "memoizedState": "688",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "689"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "690"
+  },
+  {
+    "memoizedState": "691",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "692"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "693"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "611",
+    "type": "611",
+    "stateNode": null,
+    "return": "585",
+    "child": "486",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "612",
+    "memoizedProps": "612",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "497",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.399999991059303,
+    "_debugSource": null,
+    "_debugOwner": "585",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "625",
+    "child": "584",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "614",
+    "memoizedProps": "614",
+    "updateQueue": null,
+    "memoizedState": "615",
+    "dependencies": "616",
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "499",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 4.499999985098839,
+    "_debugSource": null,
+    "_debugOwner": "625",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "617"
+  },
+  {
+    "defaultProps": "694",
+    "Brand": "695",
+    "Collapse": "696",
+    "Offcanvas": "697",
+    "Text": "698",
+    "Toggle": "699"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "700",
+    "type": "700",
+    "stateNode": null,
+    "return": "487",
+    "child": "701",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "702",
+    "memoizedProps": "702",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 4.4000000059604645,
+    "actualStartTime": 73975.19999998808,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 2.4000000059604645,
+    "_debugOwner": "487",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "703",
+    "variant": "704",
+    "children": "705",
+    "expand": true,
+    "collapseOnSelect": false
+  },
+  {
+    "memoizedState": "706",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "707"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "708"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 8,
+    "columnNumber": 5
+  },
+  ["145", "144", "148", "98", "148", "484"],
+  {
+    "key": null,
+    "ref": null,
+    "props": "488",
+    "_owner": "256",
+    "_store": "710"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "252",
+    "_owner": "256",
+    "_store": "711"
+  },
+  {
+    "key": "712",
+    "ref": null,
+    "props": "713",
+    "_owner": "256",
+    "_store": "714"
+  },
+  {
+    "key": "715",
+    "ref": null,
+    "props": "716",
+    "_owner": "256",
+    "_store": "717"
+  },
+  {
+    "key": "718",
+    "ref": null,
+    "props": "719",
+    "_owner": "256",
+    "_store": "720"
+  },
+  {
+    "key": "721",
+    "ref": null,
+    "props": "722",
+    "_owner": "256",
+    "_store": "723"
+  },
+  {
+    "key": "724",
+    "ref": null,
+    "props": "725",
+    "_owner": "256",
+    "_store": "726"
+  },
+  {
+    "key": "727",
+    "ref": null,
+    "props": "728",
+    "_owner": "256",
+    "_store": "729"
+  },
+  {
+    "key": "54",
+    "ref": null,
+    "props": "730",
+    "_owner": "256",
+    "_store": "731"
+  },
+  {
+    "key": "475",
+    "ref": null,
+    "props": "732",
+    "_owner": "256",
+    "_store": "733"
+  },
+  {
+    "key": "734",
+    "ref": null,
+    "props": "735",
+    "_owner": "256",
+    "_store": "736"
+  },
+  {
+    "key": "712",
+    "ref": null,
+    "props": "737",
+    "_owner": "256",
+    "_store": "738"
+  },
+  {
+    "path": "739",
+    "element": "740"
+  },
+  {},
+  {
+    "_context": "495"
+  },
+  {
+    "_context": "495"
+  },
+  "DataRouter",
+  {
+    "context": "741",
+    "memoizedValue": null,
+    "next": "742"
+  },
+  {
+    "_context": "634"
+  },
+  {
+    "value": "635",
+    "children": "743"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "372",
+    "_owner": "375",
+    "_store": "744"
+  },
+  {
+    "children": "613",
+    "location": "745",
+    "navigationType": "409",
+    "navigator": "746"
+  },
+  {
+    "memoizedState": "747",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "748"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "749"
+  },
+  ["98", "484", "484"],
+  {
+    "tag": 3,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "750",
+    "return": null,
+    "child": "502",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": null,
+    "memoizedProps": null,
+    "updateQueue": "751",
+    "memoizedState": "752",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14680064,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 1,
+    "alternate": "753",
+    "actualDuration": 0,
+    "actualStartTime": 353156.1999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 5.000000029802322,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "value": "202",
+    "children": "754"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "281",
+    "type": "281",
+    "stateNode": null,
+    "return": "753",
+    "child": "505",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "619",
+    "memoizedProps": "619",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14682117,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "502",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.20000000298023224,
+    "treeBaseDuration": 4.9000000059604645,
+    "_debugSource": "621",
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "fileName": "628",
+    "lineNumber": 10,
+    "columnNumber": 3
+  },
+  {
+    "children": "613"
+  },
+  {
+    "lastEffect": "755",
+    "stores": null
+  },
+  {
+    "memoizedState": "756",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "757"
+  },
+  {
+    "tag": 0,
+    "key": null,
+    "stateNode": null,
+    "return": "505",
+    "child": "585",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "622",
+    "memoizedProps": "622",
+    "updateQueue": "623",
+    "memoizedState": "624",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4194304,
+    "subtreeFlags": 10487813,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "503",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.299999997,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 4.5999999940395355,
+    "_debugSource": "626",
+    "_debugOwner": "375",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "627"
+  },
+  {
+    "fileName": "501",
+    "lineNumber": 7,
+    "columnNumber": 5
+  },
+  ["145", "144", "758"],
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\index.js",
+  {},
+  {},
+  "observer",
+  [],
+  {
+    "memoizedState": "759",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "760"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "611",
+    "Consumer": "761",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null,
+    "displayName": "762"
+  },
+  {
+    "basename": "763",
+    "navigator": "746",
+    "static": false
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "764"
+  },
+  [],
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "765"
+  },
+  {
+    "memoizedState": "638",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "766"
+  },
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "767"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "525",
+    "__reactProps$3kxqf0t67b": "768"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "558",
+    "type": "558",
+    "stateNode": null,
+    "return": "530",
+    "child": "525",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "769",
+    "memoizedProps": "769",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "770",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "530",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "className": "771",
+    "children": "772"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "641",
+    "return": "770",
+    "child": "529",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "773",
+    "memoizedProps": "773",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "525",
+    "actualDuration": 0.10000000894069672,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "653",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "774",
+    "type": "774",
+    "stateNode": "775",
+    "return": "526",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "776",
+    "memoizedProps": "776",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "777",
+    "actualDuration": 0,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "526",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "title": "9",
+    "children": "778"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "779"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "431",
+    "type": "431",
+    "stateNode": null,
+    "return": "644",
+    "child": "777",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "780",
+    "memoizedProps": "780",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "781",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "526",
+    "actualDuration": 0.10000000894069672,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "653",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "649"
+  },
+  ["98", "98"],
+  {
+    "context": "452",
+    "memoizedValue": "782",
+    "next": "783"
+  },
+  {
+    "type": "423",
+    "isValid": false,
+    "isInvalid": false,
+    "disabled": false,
+    "as": "325"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "784"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "312",
+    "type": "312",
+    "stateNode": null,
+    "return": "549",
+    "child": "770",
+    "sibling": "785",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "786",
+    "memoizedProps": "786",
+    "updateQueue": null,
+    "memoizedState": "787",
+    "dependencies": "788",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "530",
+    "actualDuration": 0.20000000298023224,
+    "actualStartTime": 354574.59999999404,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "789",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "659"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "790",
+    "return": "442",
+    "child": null,
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "791",
+    "memoizedProps": "791",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "785",
+    "actualDuration": 0.09999999403953552,
+    "actualStartTime": 353154,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "792",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "type": "423",
+    "id": "424",
+    "label": "778"
+  },
+  {
+    "memoizedState": "793",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "lanes": 0,
+    "firstContext": "794"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 97,
+    "columnNumber": 13
+  },
+  ["98", "98", "98", "484"],
+  {
+    "margin": "669"
+  },
+  ["795", "796"],
+  {
+    "type": "434",
+    "key": null,
+    "ref": null,
+    "props": "542",
+    "_owner": "95",
+    "_store": "797"
+  },
+  {
+    "type": "213",
+    "key": null,
+    "ref": null,
+    "props": "798",
+    "_owner": "95",
+    "_store": "799"
+  },
+  {},
+  {},
+  {
+    "style": "660",
+    "children": "661",
+    "className": "667"
+  },
+  "row",
+  {
+    "style": "673",
+    "children": "674",
+    "className": "667"
+  },
+  "auto",
+  {
+    "type": "312",
+    "key": null,
+    "ref": null,
+    "props": "655",
+    "_owner": "70",
+    "_store": "800"
+  },
+  {
+    "type": "565",
+    "key": null,
+    "ref": null,
+    "props": "791",
+    "_owner": "70",
+    "_store": "801"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "802"
+  },
+  {
+    "margin": "669"
+  },
+  ["803", "804"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "805"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "className": "9",
+    "children": "476",
+    "href": "475"
+  },
+  {
+    "pathname": "475",
+    "search": "9",
+    "hash": "9"
+  },
+  ["475", "686", "54", null],
+  {
+    "current": true
+  },
+  {
+    "memoizedState": "569",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "806"
+  },
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "807"
+  },
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "683"
+  },
+  {
+    "memoizedState": "680",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "808"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "809"
+  },
+  "[\"/login\"]",
+  ["54", "810"],
+  ["811", "812"],
+  {
+    "memoizedState": "813",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "814"
+  },
+  [null, "815"],
+  {
+    "memoizedState": "688",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "816"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "817"
+  },
+  {
+    "expand": true,
+    "variant": "704",
+    "collapseOnSelect": false
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "defaultProps": "818"
+  },
+  {
+    "_context": "819"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "820",
+    "type": "820",
+    "stateNode": null,
+    "return": "587",
+    "child": "821",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "822",
+    "memoizedProps": "822",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 4.4000000059604645,
+    "actualStartTime": 73975.19999998808,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 2.4000000059604645,
+    "_debugOwner": "487",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "value": "823",
+    "children": "824"
+  },
+  {
+    "backgroundColor": "825"
+  },
+  "light",
+  {
+    "type": "128",
+    "key": null,
+    "ref": null,
+    "props": "826",
+    "_owner": "489",
+    "_store": "827"
+  },
+  {
+    "current": false
+  },
+  {
+    "baseQueue": null,
+    "queue": "828",
+    "next": "829"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  "C:\\Users\\hi20h\\WebstormProjects\\OurProject\\Client\\src\\Components\\NavBar.js",
+  {},
+  {},
+  "/institutemap",
+  {
+    "path": "712",
+    "element": "830",
+    "exact": true
+  },
+  {},
+  "/instituteinfo",
+  {
+    "path": "715",
+    "element": "831",
+    "exact": true
+  },
+  {},
+  "/institutepage",
+  {
+    "path": "718",
+    "element": "832",
+    "exact": true
+  },
+  {},
+  "/usersettings",
+  {
+    "path": "721",
+    "element": "833",
+    "exact": true
+  },
+  {},
+  "/userinfo",
+  {
+    "path": "724",
+    "element": "834",
+    "exact": true
+  },
+  {},
+  "/adminpanel",
+  {
+    "path": "727",
+    "element": "835",
+    "exact": true
+  },
+  {},
+  {
+    "path": "54",
+    "element": "184",
+    "exact": true
+  },
+  {},
+  {
+    "path": "475",
+    "element": "836",
+    "exact": true
+  },
+  {},
+  "/chooseinstitute",
+  {
+    "path": "734",
+    "element": "837",
+    "exact": true
+  },
+  {},
+  {
+    "path": "712",
+    "element": "838",
+    "exact": true
+  },
+  {},
+  "*",
+  {
+    "key": null,
+    "ref": null,
+    "props": "839",
+    "_owner": "256",
+    "_store": "840"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "841",
+    "Consumer": "842",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null,
+    "displayName": "843"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "247",
+    "next": "844"
+  },
+  {
+    "type": "405",
+    "key": null,
+    "ref": null,
+    "props": "498",
+    "_owner": "499",
+    "_store": "845"
+  },
+  {},
+  {
+    "pathname": "54",
+    "search": "9",
+    "hash": "9",
+    "state": null,
+    "key": "424"
+  },
+  {
+    "action": "409",
+    "location": "846"
+  },
+  ["635", "847"],
+  {
+    "memoizedState": "848",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": null,
+    "next": null
+  },
+  {
+    "tag": 1,
+    "containerInfo": "849",
+    "pendingChildren": null,
+    "current": "753",
+    "pingCache": null,
+    "finishedWork": null,
+    "timeoutHandle": -1,
+    "context": "850",
+    "pendingContext": null,
+    "callbackNode": null,
+    "callbackPriority": 0,
+    "eventTimes": "851",
+    "expirationTimes": "852",
+    "pendingLanes": 0,
+    "suspendedLanes": 0,
+    "pingedLanes": 0,
+    "expiredLanes": 0,
+    "mutableReadLanes": 0,
+    "finishedLanes": 0,
+    "entangledLanes": 0,
+    "entanglements": "853",
+    "identifierPrefix": "9",
+    "mutableSourceEagerHydrationData": null,
+    "effectDuration": 0,
+    "passiveEffectDuration": 0,
+    "memoizedUpdaters": "854",
+    "pendingUpdatersLaneMap": "855",
+    "_debugRootType": "856"
+  },
+  {
+    "baseState": "752",
+    "firstBaseUpdate": null,
+    "lastBaseUpdate": null,
+    "shared": "857",
+    "effects": null
+  },
+  {
+    "element": "858",
+    "isDehydrated": false,
+    "cache": null,
+    "transitions": null,
+    "pendingSuspenseBoundaries": null
+  },
+  {
+    "tag": 3,
+    "key": null,
+    "elementType": null,
+    "type": null,
+    "stateNode": "750",
+    "return": null,
+    "child": "620",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": null,
+    "memoizedProps": null,
+    "updateQueue": "751",
+    "memoizedState": "752",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 14682117,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "618",
+    "actualDuration": 0.5999999940395355,
+    "actualStartTime": 354574.1999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 4.9000000059604645,
+    "_debugSource": null,
+    "_debugOwner": null,
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "504",
+    "_owner": null,
+    "_store": "859"
+  },
+  {
+    "tag": 4,
+    "deps": "860",
+    "next": "755"
+  },
+  {
+    "current": "746"
+  },
+  {
+    "memoizedState": "861",
+    "baseState": "861",
+    "baseQueue": null,
+    "queue": "862",
+    "next": "863"
+  },
+  "useLayoutEffect",
+  [null, "864"],
+  {
+    "memoizedState": "276",
+    "baseState": "276",
+    "baseQueue": null,
+    "queue": "865",
+    "next": "866"
+  },
+  {
+    "_context": "634"
+  },
+  "Navigation",
+  "/",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "867"
+  },
+  {
+    "tag": 8,
+    "deps": "868",
+    "next": "522"
+  },
+  {
+    "memoizedState": "759",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "869"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "870"
+  },
+  {
+    "className": "771",
+    "children": "871"
+  },
+  {
+    "value": "782",
+    "children": "872"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "558",
+    "type": "558",
+    "stateNode": null,
+    "return": "653",
+    "child": "644",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "873",
+    "memoizedProps": "873",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 5,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "642",
+    "actualDuration": 0.10000000894069672,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "653",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "form-check",
+  {
+    "key": null,
+    "ref": null,
+    "props": "874",
+    "_owner": "530",
+    "_store": "875"
+  },
+  {
+    "className": "771",
+    "children": "876"
+  },
+  "label",
+  {
+    "__reactFiber$3kxqf0t67b": "645",
+    "__reactProps$3kxqf0t67b": "877"
+  },
+  {
+    "title": "9",
+    "children": "778",
+    "htmlFor": "424",
+    "className": "878"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "774",
+    "type": "774",
+    "stateNode": "775",
+    "return": "648",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "879",
+    "memoizedProps": "879",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "645",
+    "actualDuration": 0.10000000894069672,
+    "actualStartTime": 354574.6999999881,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "648",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  "Нажимая галочку, Вы даете разрешение на разглашение",
+  {
+    "context": "452",
+    "memoizedValue": "782",
+    "next": "880"
+  },
+  {
+    "title": "9",
+    "children": "778"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "881"
+  },
+  {
+    "controlId": "424"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "452",
+    "memoizedValue": "782",
+    "next": "882"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "790",
+    "return": "549",
+    "child": null,
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "883",
+    "memoizedProps": "883",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": "654",
+    "actualDuration": 0,
+    "actualStartTime": 354574.799999997,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "884",
+    "_debugOwner": "70",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "type": "423",
+    "id": "424",
+    "label": "778"
+  },
+  {
+    "memoizedState": "793",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "lanes": 0,
+    "firstContext": "885"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 97,
+    "columnNumber": 13
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "654",
+    "__reactProps$3kxqf0t67b": "886"
+  },
+  {
+    "href": "9",
+    "children": "887"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 103,
+    "columnNumber": 13
+  },
+  ["782", "888"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "889"
+  },
+  {
+    "type": "312",
+    "key": null,
+    "ref": null,
+    "props": "890",
+    "_owner": "95",
+    "_store": "891"
+  },
+  {
+    "type": "565",
+    "key": null,
+    "ref": null,
+    "props": "886",
+    "_owner": "95",
+    "_store": "892"
+  },
+  {},
+  {
+    "className": "227",
+    "children": "308"
+  },
+  {},
+  {},
+  {},
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "type": "312",
+    "key": null,
+    "ref": null,
+    "props": "786",
+    "_owner": "70",
+    "_store": "893"
+  },
+  {
+    "type": "565",
+    "key": null,
+    "ref": null,
+    "props": "883",
+    "_owner": "70",
+    "_store": "894"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "895"
+  },
+  {
+    "memoizedState": "896",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "897"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "898"
+  },
+  {
+    "memoizedState": "683",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "899"
+  },
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "900"
+  },
+  {
+    "path": "475",
+    "end": false,
+    "caseSensitive": false
+  },
+  {
+    "pathname": "54",
+    "search": "9",
+    "hash": "9"
+  },
+  ["9", "686", "54", null],
+  [null, "901"],
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "902"
+  },
+  ["54", "903"],
+  {
+    "memoizedState": "813",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "904"
+  },
+  {
+    "label": "905"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "700",
+    "Consumer": "906",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null,
+    "displayName": "907"
+  },
+  {
+    "_context": "908"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "909",
+    "type": "909",
+    "stateNode": "910",
+    "return": "701",
+    "child": "911",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "912",
+    "memoizedProps": "912",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 4.4000000059604645,
+    "actualStartTime": 73975.19999998808,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 2.4000000059604645,
+    "_debugOwner": "487",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "913"
+  },
+  {
+    "bsPrefix": "914",
+    "expanded": false,
+    "expand": true
+  },
+  {
+    "type": "820",
+    "key": null,
+    "ref": null,
+    "props": "822",
+    "_owner": "487",
+    "_store": "915"
+  },
+  "white",
+  {
+    "children": "916",
+    "fluid": false
+  },
+  {},
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0
+  },
+  {
+    "memoizedState": "917",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "918"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "919",
+    "_owner": null,
+    "_store": "920"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "921",
+    "_owner": null,
+    "_store": "922"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "923",
+    "_owner": null,
+    "_store": "924"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "925",
+    "_owner": null,
+    "_store": "926"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "927",
+    "_owner": null,
+    "_store": "928"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "929",
+    "_owner": null,
+    "_store": "930"
+  },
+  {
+    "type": "88",
+    "key": null,
+    "ref": null,
+    "props": "931",
+    "_owner": null,
+    "_store": "932"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "933",
+    "_owner": null,
+    "_store": "934"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "935",
+    "_owner": null,
+    "_store": "936"
+  },
+  {
+    "to": "712"
+  },
+  {},
+  {
+    "_context": "741"
+  },
+  {
+    "_context": "741"
+  },
+  "DataRouterState",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "937"
+  },
+  {},
+  {
+    "pathname": "54",
+    "search": "9",
+    "hash": "9",
+    "state": null,
+    "key": "424"
+  },
+  ["763", "746", false],
+  ["408", "938"],
+  {
+    "__reactContainer$3kxqf0t67b": "618",
+    "_reactListeningp9ri0hzg6hb": true
+  },
+  {},
+  [
+    -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0
+  ],
+  [
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+  ],
+  [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0
+  ],
+  {},
+  [
+    "939",
+    "940",
+    "941",
+    "942",
+    "943",
+    "944",
+    "945",
+    "946",
+    "947",
+    "948",
+    "949",
+    "950",
+    "951",
+    "952",
+    "953",
+    "954",
+    "955",
+    "956",
+    "957",
+    "958",
+    "959",
+    "960",
+    "961",
+    "962",
+    "963",
+    "964",
+    "965",
+    "966",
+    "967",
+    "968",
+    "969"
+  ],
+  "createRoot()",
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0
+  },
+  {
+    "type": "281",
+    "key": null,
+    "ref": null,
+    "props": "619",
+    "_owner": null,
+    "_store": "970"
+  },
+  {},
+  ["746"],
+  {
+    "action": "409",
+    "location": "745"
+  },
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "861"
+  },
+  {
+    "memoizedState": "755",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  ["763", "746", "686", "54"],
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "276"
+  },
+  {
+    "memoizedState": "9",
+    "baseState": "9",
+    "baseQueue": null,
+    "queue": "971",
+    "next": "972"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  ["276", "276"],
+  {
+    "memoizedState": "276",
+    "baseState": "276",
+    "baseQueue": null,
+    "queue": "865",
+    "next": "973"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "974"
+  },
+  {
+    "key": null,
+    "ref": null,
+    "props": "975",
+    "_owner": "530",
+    "_store": "976"
+  },
+  {
+    "type": "75",
+    "key": null,
+    "ref": null,
+    "props": "643",
+    "_owner": "530",
+    "_store": "977"
+  },
+  {
+    "value": "782",
+    "children": "978"
+  },
+  {
+    "children": "979"
+  },
+  {},
+  {
+    "key": null,
+    "ref": null,
+    "props": "980",
+    "_owner": "653",
+    "_store": "981"
+  },
+  {
+    "title": "9",
+    "children": "778",
+    "htmlFor": "424",
+    "className": "878"
+  },
+  "form-check-label",
+  {
+    "title": "9",
+    "children": "778",
+    "htmlFor": "424",
+    "className": "878"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "452",
+    "memoizedValue": "782",
+    "next": "982"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "href": "9",
+    "children": "887"
+  },
+  {
+    "fileName": "87",
+    "lineNumber": 103,
+    "columnNumber": 13
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "983"
+  },
+  {
+    "href": "9",
+    "children": "887"
+  },
+  "персональных данных",
+  [null, "424"],
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "984"
+  },
+  {
+    "type": "423",
+    "id": "424",
+    "label": "778"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  [null, "985"],
+  {
+    "memoizedState": "986",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "987"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "988"
+  },
+  {
+    "memoizedState": "896",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "989"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "990"
+  },
+  [null, "475", false, false, "54"],
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "991"
+  },
+  {
+    "path": "475",
+    "end": false,
+    "caseSensitive": false
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "992"
+  },
+  "Toggle navigation",
+  {
+    "_context": "819"
+  },
+  "NavbarContext",
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "820",
+    "Consumer": "993",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null
+  },
+  "nav",
+  {
+    "__reactFiber$3kxqf0t67b": "821",
+    "__reactProps$3kxqf0t67b": "912"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "128",
+    "type": "128",
+    "stateNode": null,
+    "return": "821",
+    "child": "994",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "826",
+    "memoizedProps": "826",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": "995",
+    "mode": 3,
+    "flags": 1,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 4.0999999940395355,
+    "actualStartTime": 73975.19999998808,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 2.4000000059604645,
+    "_debugSource": "996",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "997"
+  },
+  {
+    "style": "703",
+    "children": "705",
+    "className": "998"
+  },
+  {
+    "type": "909",
+    "key": null,
+    "ref": null,
+    "props": "912",
+    "_owner": "487",
+    "_store": "999"
+  },
+  "navbar",
+  {},
+  ["1000", "1001"],
+  [null, "1002"],
+  {
+    "memoizedState": "1003",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1004"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  ["763", "54", "9", "9", null, "424"],
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "9"
+  },
+  {
+    "memoizedState": "9",
+    "baseState": "9",
+    "baseQueue": null,
+    "queue": "1005",
+    "next": "1006"
+  },
+  {
+    "memoizedState": "9",
+    "baseState": "9",
+    "baseQueue": null,
+    "queue": "971",
+    "next": "1007"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  {
+    "children": "1008"
+  },
+  {},
+  {},
+  {
+    "type": "75",
+    "key": null,
+    "ref": null,
+    "props": "773",
+    "_owner": "653",
+    "_store": "1009"
+  },
+  ["1010", "1011", null],
+  {
+    "children": "1012"
+  },
+  {},
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "1013"
+  },
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": null
+  },
+  ["763", "746", "686", "54"],
+  ["1014", "1015"],
+  {
+    "memoizedState": "1016",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1017"
+  },
+  {
+    "memoizedState": "986",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1018"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1019"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1020"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1021"
+  },
+  {
+    "_context": "908"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "1022",
+    "return": "911",
+    "child": "1023",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1024",
+    "memoizedProps": "1024",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536901,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 3.999999985098839,
+    "actualStartTime": 73975.29999999702,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 2.2999999970197678,
+    "_debugOwner": "911",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "lanes": 0,
+    "firstContext": "1025"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 9,
+    "columnNumber": 7
+  },
+  ["98"],
+  "navbar navbar-expand navbar-light",
+  {},
+  {
+    "type": "565",
+    "key": null,
+    "ref": null,
+    "props": "1026",
+    "_owner": "489",
+    "_store": "1027"
+  },
+  {
+    "type": "1028",
+    "key": null,
+    "ref": null,
+    "props": "1029",
+    "_owner": "489",
+    "_store": "1030"
+  },
+  [null],
+  [null, "1031"],
+  {
+    "memoizedState": "1032",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "9"
+  },
+  {
+    "memoizedState": "276",
+    "baseState": "276",
+    "baseQueue": null,
+    "queue": "1033",
+    "next": "1034"
+  },
+  {
+    "memoizedState": "9",
+    "baseState": "9",
+    "baseQueue": null,
+    "queue": "1005",
+    "next": "1035"
+  },
+  ["1036", "1037", null],
+  {},
+  {
+    "type": "430",
+    "key": null,
+    "ref": null,
+    "props": "527",
+    "_owner": "530",
+    "_store": "1038"
+  },
+  {
+    "type": "431",
+    "key": null,
+    "ref": null,
+    "props": "646",
+    "_owner": "530",
+    "_store": "1039"
+  },
+  ["1040", "1041", null],
+  {
+    "context": "452",
+    "memoizedValue": "453",
+    "next": null
+  },
+  {
+    "pathname": "475",
+    "search": "9",
+    "hash": "9"
+  },
+  ["475", "686", "54", null],
+  [null, "1042"],
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1043"
+  },
+  {
+    "memoizedState": "1016",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1044"
+  },
+  {
+    "context": "741",
+    "memoizedValue": null,
+    "next": "1045"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1046"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "994",
+    "__reactProps$3kxqf0t67b": "1024"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "1047",
+    "return": "994",
+    "child": "1048",
+    "sibling": "1049",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1026",
+    "memoizedProps": "1026",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 1048576,
+    "subtreeFlags": 4,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.8999999910593033,
+    "actualStartTime": 73975.29999999702,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 0.09999999403953552,
+    "_debugSource": "1050",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "916",
+    "className": "1051"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": null
+  },
+  {
+    "href": "712",
+    "children": "1052"
+  },
+  {},
+  {
+    "defaultProps": "1053",
+    "Item": "1054",
+    "Link": "1055"
+  },
+  {
+    "className": "81",
+    "children": "1056",
+    "justify": false,
+    "fill": false
+  },
+  {},
+  [null, false, null, null],
+  ["823", "1057"],
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": "276"
+  },
+  {
+    "memoizedState": "135",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1058"
+  },
+  {
+    "memoizedState": "276",
+    "baseState": "276",
+    "baseQueue": null,
+    "queue": "1033",
+    "next": "1059"
+  },
+  {
+    "type": "430",
+    "key": null,
+    "ref": null,
+    "props": "1060",
+    "_owner": "530",
+    "_store": "1061"
+  },
+  {
+    "type": "431",
+    "key": null,
+    "ref": null,
+    "props": "1062",
+    "_owner": "530",
+    "_store": "1063"
+  },
+  {},
+  {},
+  {
+    "type": "430",
+    "key": null,
+    "ref": null,
+    "props": "651",
+    "_owner": "653",
+    "_store": "1064"
+  },
+  {
+    "type": "431",
+    "key": null,
+    "ref": null,
+    "props": "780",
+    "_owner": "653",
+    "_store": "1065"
+  },
+  ["408", null, "1014", null, null, null, "475", null, null],
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "1066"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1067"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1068"
+  },
+  {
+    "context": "741",
+    "memoizedValue": null,
+    "next": "1069"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "1023",
+    "__reactProps$3kxqf0t67b": "1026"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "1070",
+    "type": "1070",
+    "stateNode": "1071",
+    "return": "1023",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1072",
+    "memoizedProps": "1072",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 4,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.7000000029802322,
+    "actualStartTime": 73975.39999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugSource": "1073",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1028",
+    "type": "1028",
+    "stateNode": null,
+    "return": "994",
+    "child": "1074",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "1029",
+    "memoizedProps": "1029",
+    "updateQueue": null,
+    "memoizedState": "1075",
+    "dependencies": "1076",
+    "mode": 3,
+    "flags": 1048577,
+    "subtreeFlags": 11536897,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 3,
+    "actualStartTime": 73976.19999998808,
+    "selfBaseDuration": 0.5,
+    "treeBaseDuration": 2.2000000029802322,
+    "_debugSource": "1077",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1078"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 10,
+    "columnNumber": 9
+  },
+  "container",
+  {
+    "type": "1070",
+    "key": null,
+    "ref": null,
+    "props": "1072",
+    "_owner": "489",
+    "_store": "1079"
+  },
+  {
+    "justify": false,
+    "fill": false
+  },
+  {},
+  {
+    "defaultProps": "1080"
+  },
+  ["1081", "1082"],
+  ["914", null, true, null],
+  {
+    "memoizedState": false,
+    "baseState": false,
+    "baseQueue": null,
+    "queue": "1083",
+    "next": null
+  },
+  {
+    "memoizedState": "765",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1084"
+  },
+  {
+    "type": "423",
+    "isValid": false,
+    "isInvalid": false,
+    "disabled": false,
+    "as": "325"
+  },
+  {},
+  {
+    "title": "9",
+    "children": "778"
+  },
+  {},
+  {},
+  {},
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1085"
+  },
+  {
+    "context": "634",
+    "memoizedValue": "635",
+    "next": "1086"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1087"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1088"
+  },
+  "img",
+  {
+    "__reactFiber$3kxqf0t67b": "1048",
+    "__reactProps$3kxqf0t67b": "1072",
+    "__reactEvents$3kxqf0t67b": "1089"
+  },
+  {
+    "src": "1090",
+    "width": "1091",
+    "alt": "1092",
+    "style": "1093"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 11,
+    "columnNumber": 11
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1094",
+    "type": "1094",
+    "stateNode": null,
+    "return": "1049",
+    "child": "1095",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1096",
+    "memoizedProps": "1096",
+    "updateQueue": "1097",
+    "memoizedState": "1098",
+    "dependencies": "1099",
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 11536897,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 2.5,
+    "actualStartTime": 73976.69999998808,
+    "selfBaseDuration": 0.4000000059604645,
+    "treeBaseDuration": 1.7000000029802322,
+    "_debugOwner": "1049",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1100"
+  },
+  {
+    "memoizedState": "1101",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1102"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "1103"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 19,
+    "columnNumber": 9
+  },
+  ["145", "144", "148", "98", "98", "98"],
+  {},
+  {
+    "disabled": false
+  },
+  {
+    "type": "1055",
+    "key": null,
+    "ref": null,
+    "props": "1104",
+    "_owner": "489",
+    "_store": "1105"
+  },
+  {
+    "type": "1055",
+    "key": null,
+    "ref": null,
+    "props": "1106",
+    "_owner": "489",
+    "_store": "1107"
+  },
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": false
+  },
+  {
+    "memoizedState": true,
+    "baseState": true,
+    "baseQueue": "1108",
+    "queue": "1083",
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1109"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1110"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1111"
+  },
+  {},
+  "/static/media/Кванториум.9fc39c38c01230cfc928.png",
+  "300px",
+  "adasd",
+  {
+    "cursor": "1112"
+  },
+  {
+    "Item": "1113"
+  },
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "820",
+    "type": "820",
+    "stateNode": null,
+    "return": "1074",
+    "child": "1114",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1115",
+    "memoizedProps": "1115",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536897,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 2.0999999940395355,
+    "actualStartTime": 73977.09999999404,
+    "selfBaseDuration": 0.09999999403953552,
+    "treeBaseDuration": 1.2999999970197678,
+    "_debugOwner": "1074",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "as": "75",
+    "className": "1116",
+    "children": "1056"
+  },
+  {
+    "lastEffect": "1117",
+    "stores": null
+  },
+  {
+    "memoizedState": false,
+    "baseState": false,
+    "baseQueue": null,
+    "queue": "1118",
+    "next": "1119"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "1120"
+  },
+  ["1121", "145", "98", "98", "145", "147", "484"],
+  {
+    "current": false
+  },
+  {
+    "baseQueue": null,
+    "queue": "1122",
+    "next": "1123"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "1124"
+  },
+  {
+    "style": "1125",
+    "href": "718",
+    "children": "1126",
+    "disabled": false
+  },
+  {},
+  {
+    "style": "1127",
+    "href": "724",
+    "children": "1128",
+    "disabled": false
+  },
+  {},
+  {
+    "lane": 1,
+    "action": false,
+    "hasEagerState": true,
+    "eagerState": false,
+    "next": "1108"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1129"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1130"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  "pointer",
+  {},
+  {
+    "tag": 10,
+    "key": null,
+    "elementType": "1131",
+    "type": "1131",
+    "stateNode": null,
+    "return": "1095",
+    "child": "1132",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1133",
+    "memoizedProps": "1133",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 11536897,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 2,
+    "actualStartTime": 73977.19999998808,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 1.2000000029802322,
+    "_debugOwner": "1074",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "children": "1134"
+  },
+  "ml-auto navbar-nav",
+  {
+    "tag": 9,
+    "deps": null,
+    "next": "1117"
+  },
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0,
+    "lastRenderedState": false
+  },
+  {
+    "memoizedState": "1135",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1136"
+  },
+  {
+    "context": "908",
+    "next": "1137"
+  },
+  "useReducer",
+  {
+    "pending": null,
+    "interleaved": null,
+    "lanes": 0
+  },
+  {
+    "memoizedState": "1138",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "819",
+    "memoizedValue": "823",
+    "next": "1139"
+  },
+  {
+    "color": "1140",
+    "fontSize": 24,
+    "fontWeight": "1141"
+  },
+  "Институты",
+  {
+    "color": "1140",
+    "fontSize": 24,
+    "fontWeight": "1141"
+  },
+  "Аккаунт",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1142"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1143"
+  },
+  {
+    "_context": "1144"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "75",
+    "type": "75",
+    "stateNode": "1145",
+    "return": "1114",
+    "child": "1146",
+    "sibling": null,
+    "index": 0,
+    "pendingProps": "1147",
+    "memoizedProps": "1147",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 2097664,
+    "subtreeFlags": 9439233,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 2,
+    "actualStartTime": 73977.19999998808,
+    "selfBaseDuration": 0.10000000894069672,
+    "treeBaseDuration": 1.2000000029802322,
+    "_debugOwner": "1074",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "value": "1148",
+    "children": "1149"
+  },
+  {
+    "type": "1131",
+    "key": null,
+    "ref": null,
+    "props": "1133",
+    "_owner": "1074",
+    "_store": "1150"
+  },
+  {
+    "current": false
+  },
+  {
+    "memoizedState": "1151",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1152"
+  },
+  {
+    "context": "1153",
+    "memoizedValue": null,
+    "next": null
+  },
+  [null, "1154"],
+  {
+    "context": "1155",
+    "memoizedValue": null,
+    "next": null
+  },
+  "black",
+  "medium",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1156"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1157"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "1131",
+    "Consumer": "1158",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": "249",
+    "_currentRenderer2": null,
+    "displayName": "1159"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "1132",
+    "__reactProps$3kxqf0t67b": "1147"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1055",
+    "type": "1055",
+    "stateNode": null,
+    "return": "1132",
+    "child": "1160",
+    "sibling": "1161",
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1104",
+    "memoizedProps": "1104",
+    "updateQueue": "1162",
+    "memoizedState": "1163",
+    "dependencies": "1164",
+    "mode": 3,
+    "flags": 9439233,
+    "subtreeFlags": 8390657,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 1.1000000089406967,
+    "actualStartTime": 73977.29999999702,
+    "selfBaseDuration": 0.29999999701976776,
+    "treeBaseDuration": 0.7000000029802322,
+    "_debugSource": "1165",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1166"
+  },
+  {
+    "className": "1116",
+    "children": "1056"
+  },
+  {
+    "activeKey": null
+  },
+  {
+    "type": "75",
+    "key": null,
+    "props": "1147",
+    "_owner": "1074",
+    "_store": "1167"
+  },
+  {},
+  {
+    "current": "1145"
+  },
+  {
+    "memoizedState": "1117",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1168"
+  },
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "1169",
+    "Consumer": "1170",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null
+  },
+  [null],
+  {
+    "_currentValue": null,
+    "_currentValue2": null,
+    "_threadCount": 0,
+    "Provider": "1171",
+    "Consumer": "1172",
+    "_defaultValue": null,
+    "_globalName": null,
+    "_currentRenderer": null,
+    "_currentRenderer2": null,
+    "displayName": "1173"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1174"
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1175"
+  },
+  {
+    "_context": "1144"
+  },
+  "NavContext",
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1176",
+    "type": "1176",
+    "stateNode": null,
+    "return": "1146",
+    "child": "1177",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1178",
+    "memoizedProps": "1178",
+    "updateQueue": "1179",
+    "memoizedState": "1180",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.800000011920929,
+    "actualStartTime": 73977.59999999404,
+    "selfBaseDuration": 0.4000000059604645,
+    "treeBaseDuration": 0.4000000059604645,
+    "_debugOwner": "1146",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1181"
+  },
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1055",
+    "type": "1055",
+    "stateNode": null,
+    "return": "1132",
+    "child": "1182",
+    "sibling": null,
+    "index": 1,
+    "ref": null,
+    "pendingProps": "1106",
+    "memoizedProps": "1106",
+    "updateQueue": "1183",
+    "memoizedState": "1184",
+    "dependencies": "1185",
+    "mode": 3,
+    "flags": 9439233,
+    "subtreeFlags": 8390657,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.5999999791383743,
+    "actualStartTime": 73978.5,
+    "selfBaseDuration": 0.19999998807907104,
+    "treeBaseDuration": 0.3999999910593033,
+    "_debugSource": "1186",
+    "_debugOwner": "489",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1187"
+  },
+  {
+    "lastEffect": "1188",
+    "stores": null
+  },
+  {
+    "memoizedState": "1189",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1190"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "1191"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 20,
+    "columnNumber": 11
+  },
+  ["98", "98", "98", "98", "145", "147", "148"],
+  {},
+  {
+    "memoizedState": "1192",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "_context": "1153"
+  },
+  {
+    "_context": "1153"
+  },
+  {
+    "_context": "1155"
+  },
+  {
+    "_context": "1155"
+  },
+  "CardHeaderContext",
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1193"
+  },
+  {
+    "context": "177",
+    "memoizedValue": "183",
+    "next": "1194"
+  },
+  {},
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "1195",
+    "return": "1160",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1196",
+    "memoizedProps": "1196",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.4000000059604645,
+    "actualStartTime": 73978,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "1160",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "1125",
+    "href": "718",
+    "children": "1126",
+    "disabled": false,
+    "data-rr-ui-event-key": "718",
+    "className": "1197"
+  },
+  {
+    "lastEffect": "1198",
+    "stores": null
+  },
+  {
+    "memoizedState": "1199",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1200"
+  },
+  ["145", "147", "148"],
+  {
+    "tag": 11,
+    "key": null,
+    "elementType": "1176",
+    "type": "1176",
+    "stateNode": null,
+    "return": "1161",
+    "child": "1201",
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1202",
+    "memoizedProps": "1202",
+    "updateQueue": "1203",
+    "memoizedState": "1204",
+    "dependencies": null,
+    "mode": 3,
+    "flags": 8390657,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.3999999910593033,
+    "actualStartTime": 73978.69999998808,
+    "selfBaseDuration": 0.20000000298023224,
+    "treeBaseDuration": 0.20000000298023224,
+    "_debugOwner": "1161",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": "1205"
+  },
+  {
+    "lastEffect": "1206",
+    "stores": null
+  },
+  {
+    "memoizedState": "1207",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1208"
+  },
+  {
+    "lanes": 0,
+    "firstContext": "1209"
+  },
+  {
+    "fileName": "709",
+    "lineNumber": 27,
+    "columnNumber": 11
+  },
+  ["98", "98", "98", "98", "145", "147", "148"],
+  {
+    "tag": 9,
+    "deps": "1210",
+    "next": "1188"
+  },
+  {},
+  {
+    "memoizedState": "1188",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1211"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "1212"
+  },
+  [null, "1213"],
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": "1214"
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "1177",
+    "__reactProps$3kxqf0t67b": "1196"
+  },
+  {
+    "style": "1125",
+    "href": "718",
+    "children": "1126",
+    "disabled": false,
+    "data-rr-ui-event-key": "718",
+    "className": "1197"
+  },
+  "nav-link",
+  {
+    "tag": 9,
+    "deps": "1215",
+    "next": "1198"
+  },
+  {},
+  {
+    "memoizedState": "1198",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1216"
+  },
+  {
+    "tag": 5,
+    "key": null,
+    "elementType": "565",
+    "type": "565",
+    "stateNode": "1217",
+    "return": "1182",
+    "child": null,
+    "sibling": null,
+    "index": 0,
+    "ref": null,
+    "pendingProps": "1218",
+    "memoizedProps": "1218",
+    "updateQueue": null,
+    "memoizedState": null,
+    "dependencies": null,
+    "mode": 3,
+    "flags": 0,
+    "subtreeFlags": 0,
+    "deletions": null,
+    "lanes": 0,
+    "childLanes": 0,
+    "alternate": null,
+    "actualDuration": 0.19999998807907104,
+    "actualStartTime": 73978.89999999106,
+    "selfBaseDuration": 0,
+    "treeBaseDuration": 0,
+    "_debugOwner": "1182",
+    "_debugNeedsRemount": false,
+    "_debugHookTypes": null
+  },
+  {
+    "style": "1127",
+    "href": "724",
+    "children": "1128",
+    "disabled": false,
+    "data-rr-ui-event-key": "724",
+    "className": "1197"
+  },
+  {
+    "lastEffect": "1219",
+    "stores": null
+  },
+  {
+    "memoizedState": "1220",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1221"
+  },
+  ["145", "147", "148"],
+  {
+    "tag": 9,
+    "deps": "1222",
+    "next": "1206"
+  },
+  {},
+  {
+    "memoizedState": "1206",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1223"
+  },
+  {
+    "context": "121",
+    "memoizedValue": "122",
+    "next": "1224"
+  },
+  [null],
+  {
+    "memoizedState": "1225",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "908",
+    "next": "1226"
+  },
+  [null, "1151"],
+  {
+    "context": "284",
+    "memoizedValue": "285",
+    "next": null
+  },
+  [null],
+  {
+    "memoizedState": "1227",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "__reactFiber$3kxqf0t67b": "1201",
+    "__reactProps$3kxqf0t67b": "1218"
+  },
+  {
+    "style": "1127",
+    "href": "724",
+    "children": "1128",
+    "disabled": false,
+    "data-rr-ui-event-key": "724",
+    "className": "1197"
+  },
+  {
+    "tag": 9,
+    "deps": "1228",
+    "next": "1219"
+  },
+  {},
+  {
+    "memoizedState": "1219",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": "1229"
+  },
+  [null],
+  {
+    "memoizedState": "1230",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  {
+    "context": "908",
+    "next": "1231"
+  },
+  [null, "1232"],
+  {
+    "context": "1144",
+    "memoizedValue": "1148",
+    "next": "1233"
+  },
+  [null, "1234"],
+  [null],
+  {
+    "memoizedState": "1235",
+    "baseState": null,
+    "baseQueue": null,
+    "queue": null,
+    "next": null
+  },
+  [null, "1236"],
+  {
+    "context": "1144",
+    "memoizedValue": "1148",
+    "next": "1237"
+  },
+  ["1189"],
+  {
+    "context": "1153",
+    "memoizedValue": null,
+    "next": null
+  },
+  ["1199"],
+  [null, "1238"],
+  ["1207"],
+  {
+    "context": "1153",
+    "memoizedValue": null,
+    "next": null
+  },
+  ["1220"]
+]
